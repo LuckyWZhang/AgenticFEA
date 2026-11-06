@@ -1,6 +1,6 @@
 # Agentic FEA Pipeline — LLM‑driven structural analysis
 
-[![CI](https://github.com/dontknowhow2namemzself/AgenticFEA/actions/workflows/ci.yml/badge.svg)](https://github.com/dontknowhow2namemzself/AgenticFEA/actions/workflows/ci.yml)
+[![CI](https://github.com/LuckyWZhang/AgenticFEA/actions/workflows/ci.yml/badge.svg)](https://github.com/LuckyWZhang/AgenticFEA/actions/workflows/ci.yml)
 
 Turn a plain‑English sentence into a **verified** finite‑element analysis — without ever letting the language model invent an engineering number.
 
